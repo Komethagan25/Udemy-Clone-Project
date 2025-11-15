@@ -25,7 +25,7 @@ The project recreates the layout of Udemy’s main landing page, including the n
 
 1. TO view this project :
 
-        Live link : https://komethagan25.github.io/Udemy-Clone-Project/
+        Live link -- https://komethagan25.github.io/Udemy-Clone-Project/
 
 2. Open the index.html file in any web browser.
 
