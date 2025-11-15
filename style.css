@@ -70,6 +70,7 @@ body {
 
 .sale-image img{
     width: 100%;
+
 }
 
 .recommended {
@@ -161,7 +162,3 @@ body {
     display: flex;
     justify-content: space-between;
 }
-
-
-
-
