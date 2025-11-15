@@ -25,7 +25,7 @@ The project recreates the layout of Udemy’s main landing page, including the n
 
 1. Download or clone this repository:
 
-git clone 
+        git clone  https://komethagan25.github.io/Udemy-Clone-Project/
 
 2. Open the index.html file in any web browser.
 
