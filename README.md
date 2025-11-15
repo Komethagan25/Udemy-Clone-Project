@@ -3,31 +3,31 @@ This is a simple Udemy Clone homepage created using HTML and CSS.
 The project recreates the layout of Udemy’s main landing page, including the navbar, categories, sale banner, recommended courses, topics, popular courses, and footer.
 # Features
 
--Clean and simple UI
+- Clean and simple UI
 
--Navigation bar
+- Navigation bar
 
--Banner / Hero section
+- Banner / Hero section
 
--Course cards section
+- Course cards section
 
--Most Popular Courses section
+- Most Popular Courses section
 
--Footer section
+- Footer section
 
 # Technologies Used
 
--HTML5
+- HTML5
 
--CSS
+- CSS
 
 # How to View
 
-1.Download or clone this repository:
+1. Download or clone this repository:
 
 git clone 
 
-2.Open the index.html file in any web browser.
+2. Open the index.html file in any web browser.
 
 # Contributing
 
