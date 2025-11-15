@@ -68,7 +68,7 @@ body {
 
 }
 
-.sale-image {
+.sale-image img{
     width: 100%;
 }
 
@@ -161,4 +161,5 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
 
