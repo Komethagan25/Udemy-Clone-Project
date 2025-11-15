@@ -51,50 +51,61 @@ body {
     align-items: center;
 
 }
-.categories{
+
+.categories {
     display: flex;
     padding: 10px;
-    border-bottom: solid black 1px ;
+    border-bottom: solid black 1px;
     justify-content: space-around;
 
 }
-.categories p{
+
+.categories p {
     padding: 10px;
     border-radius: 30px;
     background-color: #A435F0;
     color: white;
 
 }
-.sale-image{
+
+.sale-image {
     width: 100%;
 }
 
-.recommended{
+.recommended {
     padding: 10px;
-    
-}
-.recommended__container{
-   display: flex;
-   flex-wrap: wrap;
-   justify-content: space-between;
-   margin-top: 10px;
 
 }
 
-.course__card{
-   width: 300px;
+.recommended__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 10px;
 
 }
-.course__card img{
+
+.course__card {
+    width: 300px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+
+.course__card img {
     width: 100%;
     height: 180px;
-  
+    border-radius: 10px;
 
 }
-.topics{
+
+.topics {
     padding: 10px;
 }
-.topics__container{
+
+.topics__container {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -102,44 +113,50 @@ body {
 
 
 }
-.topics__container p{
+
+.topics__container p {
     border: solid gray 1px;
     padding: 10px;
     flex-grow: 1;
     flex-basis: 25%;
 
 }
-.popular{
+
+.popular {
     padding: 10px;
 }
-.popular__container{
+
+.popular__container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin-top: 10px;
-    gap: 20px;
-  
+
+
 }
-.footer{
+
+.footer {
     padding: 30px;
     background-color: black;
     color: white;
     margin-top: 20px;
 
 }
-.footer__one p{
+
+.footer__one p {
     margin-top: 20px;
 
 
 }
-.footer__one{
+
+.footer__one {
     display: flex;
     gap: 30px;
 }
-.footer__two{
+
+.footer__two {
     margin-top: 25px;
     align-items: center;
     display: flex;
     justify-content: space-between;
 }
-
